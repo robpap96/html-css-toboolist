@@ -1,0 +1,44 @@
+/************
+    RESET
+************/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/************
+    BODY
+************/
+body {
+    background-color: #F6F8F9;
+    font-family: 'Roboto', sans-serif;
+}
+/************
+    HEADER
+************/
+header {
+    background-color: white;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 10px;
+}
+
+.logo {
+    padding-left: 100px;
+    padding-top: 10px;
+    vertical-align: middle;
+}
+/************
+    MAIN
+************/
+
+
+/************
+    FOOTER
+*************/
