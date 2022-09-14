@@ -40,7 +40,7 @@ h1 {
     MAIN
 ************/
 .container {
-    max-width: 900px;
+    max-width: 800px;
     margin: auto;
     background-color: white;
     border-radius: 5px;
@@ -51,7 +51,7 @@ h1 {
     padding-top: 12px;
     padding-bottom: 12px;
     height: 45px;
-    border-bottom: 3px solid  #F6F8F9;;
+    border-bottom: 3px solid  #F6F8F9;
 }
 
 
@@ -63,6 +63,7 @@ h1 {
     border: 1px solid #45ABEA;
     border-radius: 8%;
     height: 25px;
+    cursor: pointer;
 }
 
 #sezione {
@@ -73,6 +74,7 @@ h1 {
     border: 1px solid grey;
     border-radius: 8%;
     height: 25px;
+    cursor: pointer;
 }
 
 .to-do-list {
@@ -82,6 +84,7 @@ h1 {
 
 h3 {
     color: rgb(83, 81, 81);
+    padding: 10px 0;
 }
 
 .circle {
